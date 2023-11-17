@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋,  I'm Victoria Manzano</h1>
+<h2 align="center">Hi there 👋,  I'm Victoria Manzano</h2>
 <h3 align="center">I am currently training as a frontend developer in IT Academy, Barcelona.</h3>
 
 
