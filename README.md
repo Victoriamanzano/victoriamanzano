@@ -3,15 +3,7 @@
 <h2 align="center">Hi there 👋,  I'm Victoria Manzano</h2>
 <h3 align="center">I am currently training as a frontend developer in IT Academy, Barcelona.</h3>
 
-```js 
-const victoriaManzano = {
-     pronouns: "She"/"her",
-     technologies: 'web',
-     skills: ['HTML','Css','Sass', 'Bootstrap', 'JavaScript', 'jQuery', 'git'],
-     passions:['Web development', 'Performance web'];
 
-} 
-````
 
 <h3 align="center">💬Some skills and connections here:</h3>
 
