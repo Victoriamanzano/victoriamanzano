@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">💬Some skills and connections here:</h3>
+<h3 align="center">💬Some skills here:</h3>
 
 <hr>
 
