@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hi there 👋,  I'm Victoria Manzano</h3>
-<p align="center">💬I am a very <strong>curious</strong> person, <strong>I always like to know and learn new and interesting things</strong>,<br> I am interested in <strong>coding</strong>, <strong>video games</strong>, <strong>art</strong> and <strong>design</strong>! </p>
+<p align="center">💬I am a very <strong>curious</strong> person, <strong>I always like to know and learn new</strong> and <strong>interesting things</strong>,<br> I am interested in <strong>coding</strong>, <strong>video games</strong>, <strong>art</strong> and <strong>design</strong>! </p>
 <p align="center">I am currently training as a <strong>frontend developer</strong> at <strong>ITAcademy</strong> , Barcelona 🚀.</p>
 
 
