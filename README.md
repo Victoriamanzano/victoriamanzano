@@ -1,9 +1,9 @@
 
+ 
+<h3 align="center">Hola!! 👋  Soy Victoria Manzano</h3>
 
-<h3 align="center">Hi there 👋,  I'm Victoria Manzano</h3>
-<p align="center">💬I am a very <strong>curious</strong> person, <strong>I always like to know and learn new</strong> and <strong>interesting things</strong>,<br> I am interested in <strong>coding</strong>, <strong>video games</strong>, <strong>art</strong> and <strong>design</strong>! </p>
-<p align="center">I am currently training as a <strong>frontend developer</strong> at <strong>ITAcademy</strong> , Barcelona 🚀.</p>
-
+<p align="center">💬 Actualmente me estoy formando como <strong>desarrolladora frontend</strong> en <strong>ITAcademy</strong>, Barcelona  🚀.</p>
+<p align="center"> Por aqui algunas de mis <strong>skills</strong>
 
 
 
