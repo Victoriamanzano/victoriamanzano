@@ -1,7 +1,7 @@
 <hr>
 Hola! Soy <strong>Victoria</strong>, una apasionada estudiante de desarrollo <strong>frontend</strong>  en la <strong>ITAcademy</strong>  de <strong>Barcelona</strong>, con un enfoque destacado en <strong>Angular</strong>. Mi interés se extiende al mundo del <strong>UX</strong>, diseño de <strong>maquetación</strong> y del <strong>SEO</strong>. 
 
-Más allá del código, me encanta plasmar mi creatividad en el diseño de carteles, ilustraciones y máquinas de tatuaje, además, soy tatuadora profesional. 
+Más allá del código, me encanta plasmar mi creatividad en la pintura, el diseño de carteles, ilustraciones y máquinas de tatuaje, además, soy tatuadora profesional. 
 
 ¡<strong>Bienvenido/a/e</strong>  a mi perfil de GitHub, donde podrás explorar mi diversa trayectoria! 🚀</h3>
 
