@@ -1,9 +1,6 @@
-<hr>
-Hola! Soy <strong>Victoria</strong>, una apasionada estudiante de desarrollo <strong>frontend</strong>  en la <strong>ITAcademy</strong>  de <strong>Barcelona</strong>, con un enfoque destacado en <strong>Angular</strong>. Mi interés se extiende al mundo del <strong>UX</strong>, diseño de <strong>maquetación</strong> y del <strong>SEO</strong>. 
 
-Más allá del código, me encanta plasmar mi creatividad en la pintura, el diseño de carteles, ilustraciones y máquinas de tatuaje, además, soy tatuadora profesional. 
 
-¡<strong>Bienvenido/a/e</strong>  a mi perfil de GitHub, donde podrás explorar mi diversa trayectoria! 🚀</h3>
+ ¡<strong>Bienvenido/a/e</strong>  a mi perfil de GitHub, donde podrás explorar mi diversa trayectoria! 🚀</h3>
 
 <p align="center"><strong></strong> <strong></strong>  </p>
 
@@ -33,7 +30,7 @@ Más allá del código, me encanta plasmar mi creatividad en la pintura, el dise
 
 ## ⚙ Tecnologías de diseño que he utilizado hastahora:
 
-<p align="center"> <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="gh" width="40" height="40"/></a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="gh" width="80" height="40"/></a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg" alt="gh" width="100" height="40"/></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" alt="gh" width="40" height="40"/></a>
+<p align="center"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg" alt="gh" width="100" height="40"/></a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" alt="gh" width="40" height="40"/></a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="gh" width="40" height="40"/></a>
 
 
 
