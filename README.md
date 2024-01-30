@@ -26,11 +26,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gh" width="40" height="40"/><a/>
-  <img width="12" />
-   <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="gh" width="50" height="40"/></a
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="gh" width="50" height="40"/></a
   <img width="12" />
   <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="90" height="40"/></a>
+  <img width="12" />
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gh" width="40" height="40"/><a/>
   <img width="12" />
 
   ###
