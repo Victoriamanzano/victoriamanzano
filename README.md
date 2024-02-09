@@ -2,7 +2,6 @@
 
 
 
-
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
