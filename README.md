@@ -13,8 +13,7 @@
   <img width="12" />
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="jquery logo"  />
   <img width="12" />
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-  alt="bootstrap" width="40" height="40"/></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,7 +35,11 @@
   <img width="12" />
   <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gh" width="40" height="40"/><a/>
   <img width="12" />
-
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="gh" width="70" height="40"/><a/>
+  <img width="12" />
+   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+   
   ###
 
   <p align="center">
@@ -52,15 +55,18 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-icon.svg" height="40" alt="illustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
   <img width="12" />
+ 
 
 
 
 
+ 
 
 
 
+###
 
 
 
